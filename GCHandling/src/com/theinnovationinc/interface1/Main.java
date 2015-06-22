@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		MyInterface interface1=new Student1(); //polymorphic arguments.
+	//	MyInterface interface1=new Student1(); //polymorphic arguments.
 		
 		
 	}

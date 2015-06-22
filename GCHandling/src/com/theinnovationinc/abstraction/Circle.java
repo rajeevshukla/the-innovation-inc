@@ -1,8 +1,8 @@
 package com.theinnovationinc.abstraction;
 
-public class Circle extends Shape {
+public class Circle /*extends Shape*/ {
 
-	@Override
+/*	@Override*/
 	public void drawShape() {
 
 		

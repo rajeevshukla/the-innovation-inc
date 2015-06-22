@@ -19,7 +19,7 @@ public class StartDrawing {
 		
 		drawing.draw(shape);
 		
-		shape=new Circle();
+		//shape=new Circle();
 		
 		
 		drawing.draw(shape);
